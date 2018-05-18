@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-05-17T10:38:30</date>
+  <millis>1526549910644</millis>
+  <sequence>0</sequence>
+  <logger>theoryTests0.TestLogger</logger>
+  <level>CONFIG</level>
+  <class>theoryTests0.TestLogger</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2018-05-17T10:38:30</date>
+  <millis>1526549910656</millis>
+  <sequence>1</sequence>
+  <logger>theoryTests0.TestLogger</logger>
+  <level>FINE</level>
+  <class>theoryTests0.TestLogger</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2018-05-17T10:38:30</date>
+  <millis>1526549910656</millis>
+  <sequence>2</sequence>
+  <logger>theoryTests0.TestLogger</logger>
+  <level>FINER</level>
+  <class>theoryTests0.TestLogger</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
